@@ -1,5 +1,4 @@
 import pandas as pd
-import pyautogui
 import winsound
 import subprocess
 import smtplib,ssl
